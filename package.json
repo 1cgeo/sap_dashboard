@@ -1,0 +1,38 @@
+{
+  "name": "sap_dashboard",
+  "version": "0.0.1",
+  "description": "Dashboard para Sistema de Apoio a Produção",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/1cgeo/sap_dashboard"
+  },
+  "engines": {
+    "node": "~8.7.0",
+    "npm": ">=5.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "Controle de Produção",
+    "Node",
+    "Express"
+  ],
+  "author": "DSG/1CGEO <diniz.felipe@eb.mil.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1cgeo/sap_dashboard/issues"
+  },
+  "dependencies": {
+    "d3": "^5.12.0",
+    "moment": "^2.24.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-scripts": "0.9.x",
+    "visavail": "^1.0.12"
+  }
+}
