@@ -32,7 +32,7 @@
     "moment": "^2.24.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.x",
+    "react-scripts": "5.0.x",
     "visavail": "^1.0.12"
   }
 }
